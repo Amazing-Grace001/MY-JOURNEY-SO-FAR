@@ -1,6 +1,7 @@
 # MY-JOURNEY-SO-FAR
 
-MS EXCEL----
+## MS EXCEL----
+
 When this invitation came to me through a friend, i was thrilled because i have been seeking for an opportunity like this for a long time. Thanks to DSA- Thanks to INCUBATOR HUB.
 We were introduced to 3 areas to our course, which are; MS EXCEL, SQL-(Structured Query Language) and finaly the Power BI.
 Like every other track, we began with the MS EXCEL- Foundations of Data
@@ -21,13 +22,16 @@ Understanding the life Cycle of Data Analysis is another top-notch dimensions; -
                                                                                - Analysis
                                                                                - Presentation
 Excel actually has 1,048,576 rows and 16,387 columns.
-Basic Functions and Formulars of Excel
+
+### Basic Functions and Formulars of Excel
+
 During the course of this teaching, we were exposed to the 5 basic functions of EXCEL which includes
  1. Maximum
  2. Minimum
  3. Average
  4. Count
  5. Sum
+    
 Then of course with other functions such as the Mean, Mode, Median, Counta, Days, Month, Year,Text, etc. however, it is expedient that when entering any of the formulas, we should always remember to include an equal (=) sign in the front.
 other functions;
 1. LENS- simply means numbers of character in a word
@@ -44,7 +48,8 @@ other functions;
 12. IF - it is a fundamental logical function used to create a dynamic calculations based on a different outcome
 13. IFS - allows one to test multiple condition
 
-LOOKUP FUNCTIONS
+### LOOKUP FUNCTIONS
+
 Lookup simply means generating a new column by way of using what you have to get what you don't have without the use of condition.
 VLOOKUP- this function searches for a value in the first column of a table and returns a value in the same row from a specified column. it searches from left to rightand              returns the lookup value to be on the first column of the table.
 XLOOKUP- searches from the both direction, allows for returning multiple columns. it is however more flexible compare to VLOOKUP.
@@ -56,22 +61,28 @@ some other associated functions includes;
 5. INDIRECT
 6. XMATCH
 
-TEXT EXTRACTIONS
+### TEXT EXTRACTIONS
+
 There are 5 main functions in text extraction- LEFT, RIGHT, MID, FIND and SEARCH
 
-PIVOT TABLE
+### PIVOT TABLE
+
 This is a data processing tool in MS EXCEL that allows you to summarize and analyze data by creating a dynamic table that can re-arrange data to provide different views.
 understanding pivot table, dashboard and creating a charts was indeed intriguing. 
 understanding types of charts- clustered column charts and stacked column charts was indeed awesome.
+we also learnt how to build DASHBOARD and REPORT in MS EXCEL.
 
 THANKS TO OUR AMAZING AND VERY HUMOROUS FACILITATOR, MR MUHSIN HAMEED.
 
 
-STRUCTURED QUERY LANGUAGE (SQL)
-SQL was another branch of our track with the DSA.
+
+## STRUCTURED QUERY LANGUAGE (SQL)
+
+SQL is another branch of our track with the DSA.
 SQL is used for storing and managing data in a relational database management system. it is a standard language for a  relational datase system. it enables the user to relate database and tables. All the RDBMS uses SQL as there standard language.
 
-SQL  COMMANDS
+### SQL  COMMANDS
+
 These are commands that are used to communicate with the database
 there are 5 major SQL commands which includes;
 1. DATA DEFINITION LANGUAGE(DDL) - Used to change the structure of the table such as creating a table, deleting a table, altering a table
@@ -81,13 +92,15 @@ there are 5 major SQL commands which includes;
 5. TRANSACTION CONTROL LANGUAGE (TCL) - Is is used to manage transaction from the database. it is used to manage changes made in DML-INSERT, UPDATE, DELETE. it has only two commands-COMMIT and ROLL-BACK
 Learning how to use these command to write query that aid in communicating with the Database was fascinating.
 
-DATA-TYPES
+### DATA-TYPES
+
 It is simply used to define value that a colun can contain. we have the following data-types
 1. Stringed Data-type
 2. Numeric Data-type
 3. Data Data-type
 
-SQL KEYS
+### SQL KEYS
+
 These are special field in a table that help create relationship between tables, maintains uniqueness and ensures that data is consistent and valid.
 we have the following keys below;
 1. Primary keys
@@ -98,21 +111,67 @@ we have the following keys below;
 6. Alternate keys
 7. Composite keys
 
-SQL CLAUSES
+### SQL CLAUSES
+
 These are essential component of SQL that define how queries interact with the database
 we have the following clauses;
 1. Group by clauses
 2. Order by clauses
 3. having clauses
    
-SQL OPERATORS
+### SQL OPERATORS
+
 These are special words used primarily in SQL's WHERE clause to perform operations such as Arithmetics and Comparison operations.
 we have the following operators includes;
 1. Logical operators
 2. Arithmeyic operators
 3. comparisons operators
 
-SQL JOINS
+### SQL JOINS
+
+This is used to combine records from two or more tables in a Database.
+There are basically 5 types of joins in SQL includes;
+* INNER JOINS- Selects records that have matching values in both tables provided the conditions are satisfied
+* RIGHT JOINS- Returns all the values from the right table and matching values from the left. If there is no matching join, it will return NULL
+* LEFT JOINS- Returns all the values from the left table and matching values from the right table. If there is no matching table, it returns NULL.
+*FULL JOINS- The result of the combination of both left and right outer join.
+
+### SQL AGGREGATE FUNCTIONS
+
+SQL aggregate functions are powerful tools used to perform calculations on a set of values, returning a single value that summarizes the data. They are commonly used in conjunction with the GROUP BY clause to group the data by one or more columns before applying the aggregate function.
+Some basic aggregate functions includes;
+* SUM
+* MAX
+* MIN
+* AVERAE
+* COUNT
+
+### SQL SET OPERATIONS
+
+SQL set operations allow you to combine the results of two or more SELECT queries. These operations treat the result sets of each query as mathematical sets, enabling you to perform set operations like union, intersection, and difference on them. SQL provides the following set operations:
+Some SQL set operations includes;
+* UNIONS
+* UNION ALL
+* INTERSECT
+
+ ### VIEW IN SQL
+ 
+A SQL View is a virtual table that is created based on the result set of a SQL query. Unlike a regular table, a view does not store data itself; instead, it dynamically retrieves data from one or more underlying tables whenever the view is queried.
+
+THANKS TO OUR ERUDITE FACILITATOR, MR. FEMI AYODELE
+
+
+## POWER BI (BUSINESS INTELLIGENCE)
+
+This is a data visualization and business intelligence tool that converts data from different source to interactive dashboards and Business Intelligence reports. It is a collection of softwares services, apps and connectors that works together to turn your unrelated sources of data into coherent, visually immersive and interactive insights.
+This is also one of the tools associated with power platforms- Power Automatec, Power Applications, Power Virtual Agents and Power BI.
+Using datasets to build visuals and reports were part of what we learn in this POWER BUSINESS INTELLIGENCE.
+
+THANKS TO OUR AMIABLE FACILITATOR, MR. TEEDEE AYENI. WE LOVE YOU ALL.
+
+
+
+
 
 
 
