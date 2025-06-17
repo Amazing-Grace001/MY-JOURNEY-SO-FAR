@@ -72,6 +72,8 @@ understanding pivot table, dashboard and creating a charts was indeed intriguing
 understanding types of charts- clustered column charts and stacked column charts was indeed awesome.
 we also learnt how to build DASHBOARD and REPORT in MS EXCEL.
 
+[Download Here](http://d.docs.live.net/7BFBE604BF40DEFB/Desktop/DATA%20ANALYSIS/ABCC%20MS%20EXCEL.Xlsx)
+
 
 THANKS TO OUR AMAZING AND VERY HUMOROUS FACILITATOR, MR MUHSIN HAMEED.
 
@@ -159,6 +161,8 @@ Some SQL set operations includes;
  
 A SQL View is a virtual table that is created based on the result set of a SQL query. Unlike a regular table, a view does not store data itself; instead, it dynamically retrieves data from one or more underlying tables whenever the view is queried.
 
+[Download Here](DESKTOP-K8VS15I)
+
 THANKS TO OUR ERUDITE FACILITATOR, MR. FEMI AYODELE
 
 
@@ -167,6 +171,8 @@ THANKS TO OUR ERUDITE FACILITATOR, MR. FEMI AYODELE
 This is a data visualization and business intelligence tool that converts data from different source to interactive dashboards and Business Intelligence reports. It is a collection of softwares services, apps and connectors that works together to turn your unrelated sources of data into coherent, visually immersive and interactive insights.
 This is also one of the tools associated with power platforms- Power Automatec, Power Applications, Power Virtual Agents and Power BI.
 Using datasets to build visuals and reports were part of what we learn in this POWER BUSINESS INTELLIGENCE.
+
+[download Here](C:\Users\B.B\OneDrive\Desktop\DATA ANALYSIS\NEW DATABASE BI.pbix)
 
 THANKS TO OUR AMIABLE FACILITATOR, MR. TEEDEE AYENI. WE LOVE YOU ALL.
 
