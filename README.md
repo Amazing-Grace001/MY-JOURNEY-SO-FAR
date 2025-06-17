@@ -72,6 +72,7 @@ understanding pivot table, dashboard and creating a charts was indeed intriguing
 understanding types of charts- clustered column charts and stacked column charts was indeed awesome.
 we also learnt how to build DASHBOARD and REPORT in MS EXCEL.
 
+
 THANKS TO OUR AMAZING AND VERY HUMOROUS FACILITATOR, MR MUHSIN HAMEED.
 
 
